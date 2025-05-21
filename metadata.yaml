@@ -1,0 +1,5 @@
+homepage: "https://www.utiq.com"
+documentation: ""
+versions:
+  - sha: 9064ac6ccd0d04be58f38ee2b8c2768bb1aabd60
+    changeNotes: Initial release.
